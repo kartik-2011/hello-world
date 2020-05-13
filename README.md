@@ -1,2 +1,5 @@
 # hello-world
-just a repository
+hello everyone,
+my name is kartik ahluwalia 
+i am from india
+
